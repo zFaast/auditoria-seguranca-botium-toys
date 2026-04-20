@@ -1,4 +1,7 @@
-# Auditoria de Segurança e Compliance – Botium Toys
+## 🎓 Contexto do Projeto
+Este projeto foi desenvolvido como parte do programa **Google Cybersecurity Professional Certificate** na plataforma [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
+## 📚 Fonte de Referência
+Atividade prática baseada nos princípios de auditoria de segurança, gestão de riscos e frameworks de conformidade abordados no programa Google Cybersecurity.
 
 ## 📌 Problema
 A empresa Botium Toys precisava avaliar seus controles de segurança e conformidade para identificar vulnerabilidades e riscos operacionais.
