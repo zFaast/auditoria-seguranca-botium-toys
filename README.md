@@ -32,5 +32,6 @@ Essa abordagem garante uma visão realista da postura de segurança da empresa.
 
 ## 🚀 Resultado
 A análise permitiu identificar falhas críticas e propor melhorias para fortalecer a segurança e a conformidade da empresa.
+
 📄 Ver relatório completo
-[Controls and compliance checklist.pdf](https://github.com/user-attachments/files/26912896/Controls.and.compliance.checklist.pdf)
+[Controls and compliance checklist.pdf](https://github.com/user-attachments/files/26912950/Controls.and.compliance.checklist.pdf)
